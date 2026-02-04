@@ -28,13 +28,6 @@ contents:
         filters: false
 
       organizations:
-        - permalink: "/organisations/deuxfleurs/"
-          path: "/organizations/deuxfleurs"
-          slug: "deuxfleurs"
-          file: "content/fr/organizations/deuxfleurs.html"
-          role: >-
-            
-
         - permalink: "/organisations/ademe/"
           path: "/organizations/ademe"
           slug: "ademe"
@@ -42,7 +35,7 @@ contents:
           role: >-
             
 
-      quantity: 2
+      quantity: 1
 
 
 
