@@ -6,19 +6,16 @@ contents_reading_time:
 contents:
   - kind: block
     template: organizations
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 2
       children: 2
     top:
       active: false
+
     data:
       layout: grid
-      description: >-
-        
 
       options:
         link: true
