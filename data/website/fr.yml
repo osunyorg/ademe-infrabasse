@@ -25,12 +25,7 @@ contents:
         filters: false
 
       organizations:
-        - permalink: "/organisations/ademe/"
-          path: "/organizations/ademe"
-          slug: "ademe"
-          file: "content/fr/organizations/ademe.html"
-
-      quantity: 1
+      quantity: 0
 
 
 
