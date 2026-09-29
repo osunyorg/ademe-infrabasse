@@ -11,3 +11,12 @@ params:
   home:
     head:
       title: site
+  pages:
+    index:
+      layout: grid
+      options:
+        categories: false
+        image: true
+        main_summary: false
+        subtitle: true
+        summary: true
