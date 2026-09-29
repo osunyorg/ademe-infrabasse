@@ -1,15 +1,15 @@
 ---
 title: Menu principal
 items:
-- title: Étude de cas
-  slug: etude-de-cas
+- title: Études de cas
+  slug: etudes-de-cas
   target: "/etudes-de-cas/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/etudes-de-cas"
-  file: content/fr/pages/etudes-de-cas/_index.html
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Ressources
   slug: ressources
   target: "/ressources/"
