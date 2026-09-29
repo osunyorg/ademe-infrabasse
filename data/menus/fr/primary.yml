@@ -1,15 +1,15 @@
 ---
 title: Menu principal
 items:
-- title: Agenda
-  slug: agenda
-  target: "/agenda/"
+- title: Étude de cas
+  slug: etude-de-cas
+  target: "/etudes-de-cas/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/events"
-  file: content/fr/events/_index.html
+  path: "/pages/etudes-de-cas"
+  file: content/fr/pages/etudes-de-cas/_index.html
 - title: Ressources
   slug: ressources
   target: "/ressources/"
@@ -19,4 +19,13 @@ items:
   descendants_targets: []
   path: "/pages/ressources"
   file: content/fr/pages/ressources/_index.html
+- title: Annuaire
+  slug: annuaire
+  target: "/personnes/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 
