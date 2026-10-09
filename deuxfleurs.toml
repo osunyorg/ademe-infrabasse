@@ -18,3 +18,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 from = "/projets/index.html"
 to = "/etudes-de-cas/"
 
+[[redirects]]
+from = "/agenda/2026/webinaire-de-lancement/index.html"
+to = "/agenda/2026/webinaire-lancement/"
+
